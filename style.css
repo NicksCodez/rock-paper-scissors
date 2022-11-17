@@ -1,19 +1,19 @@
 #rock {
-    background-image: url("/images/rock.jpg");
+    background-image: url("images/rock.jpg");
     background-size: 250px 250px;
     height: 254px;
     width: 254px;
 }
 
 #paper {
-    background-image: url("/images/paper.jpg");
+    background-image: url("images/paper.jpg");
     background-size: 250px 250px;
     height: 254px;
     width: 254px;
 }
 
 #scissors {
-    background-image: url("/images/scissors.jpg");
+    background-image: url("images/scissors.jpg");
     background-size: 250px 250px;
     height: 254px;
     width: 254px;
